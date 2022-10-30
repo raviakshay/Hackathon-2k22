@@ -24,6 +24,6 @@ Redux: https://redux.js.org/
 React Router Dom: https://reactrouter.com/web/guides/quick-start
 
 
-# Team Name: Code Thinker
+# Team Name: Code Thinker<br/>
 ## Team Members
 ### R. Santhosh Kumar,V. Shiva,B. Sushwanth,B. Kalyan,P. Janardhan
